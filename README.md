@@ -1,1 +1,1 @@
-# Survey-Quantization-CNN-Models
+# Survey-Quantization-DNN-Models
