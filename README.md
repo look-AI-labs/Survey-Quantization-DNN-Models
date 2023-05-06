@@ -1,7 +1,7 @@
 # Survey-Quantization-DNN-Models
 This is to quantize FP 8/4/2bits for CNN models. More codes on the way. 
 
-## Run
+
 ### Dependency 
 * Python 3.7
 * PyTorch 1.1.0
