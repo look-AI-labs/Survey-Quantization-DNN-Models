@@ -26,6 +26,7 @@ Note that config is already set by default but can be changed in the command lin
  [1] [ "Any-Precision Deep Neural Networks", Yu, Haichao and Li, Haoxiang and Shi, Honghui and Huang, Thomas S and Hua, Gang, Arxive, 2019 ](https://arxiv.org/abs/1911.07346);   
        [ Any-Precision github here ](https://raw.githubusercontent.com/SHI-Labs/Any-Precision-DNNs)
  
- [2] [ "DOREFA-NET:TRAININGLOWBITWIDTHCONVOLUTIONALNEURALNETWORKSWITHLOWBITWIDTH GRADIENTS" ShuchangZhou,YuxinWu,ZekunNi,XinyuZhou,HeWen,YuhengZou MegviiInc ](https://arxiv.org/pdf/1606.06160.pdf); [ github code here ]( https://github.com/zzzxxxttt/pytorch_DoReFaNet )
+ [2] [ "DOREFA-NET:TRAININGLOWBITWIDTHCONVOLUTIONALNEURALNETWORKSWITHLOWBITWIDTH GRADIENTS" ShuchangZhou,YuxinWu,ZekunNi,XinyuZhou,HeWen,YuhengZou MegviiInc ](https://arxiv.org/pdf/1606.06160.pdf); 
+       [ DOREFA github here ]( https://github.com/zzzxxxttt/pytorch_DoReFaNet )
  
  [3]  
