@@ -15,3 +15,10 @@ Just Run the script
  ```
  python train.py 
  ```
+Note that config is already set by default but can be changed in the command line, e.g., 
+
+ ```
+ python train.py --device 'gpu' --epochs 100 --model 'resnet20q' 
+ ```
+ 
+ ### Reference 
