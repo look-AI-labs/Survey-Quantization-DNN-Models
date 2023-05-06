@@ -29,4 +29,4 @@ Note that config is already set by default but can be changed in the command lin
  [2] [ "DOREFA-NET:TRAININGLOWBITWIDTHCONVOLUTIONALNEURALNETWORKSWITHLOWBITWIDTH GRADIENTS" ShuchangZhou,YuxinWu,ZekunNi,XinyuZhou,HeWen,YuhengZou MegviiInc ](https://arxiv.org/pdf/1606.06160.pdf); 
        [ DOREFA github here ]( https://github.com/zzzxxxttt/pytorch_DoReFaNet )
  
- [3]  
+ [3] ResNet models by Kaimin He
