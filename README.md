@@ -22,3 +22,5 @@ Note that config is already set by default but can be changed in the command lin
  ```
  
  ### Reference 
+ 
+ * [1] [Any-Precision Deep Neural Networks](https://arxiv.org/abs/1911.07346).
