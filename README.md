@@ -23,4 +23,4 @@ Note that config is already set by default but can be changed in the command lin
  
  ### Reference 
  
- * [1] [Any-Precision Deep Neural Networks](https://arxiv.org/abs/1911.07346).
+ * [1] [Any-Precision Deep Neural Networks](https://arxiv.org/abs/1911.07346). [github code](https://raw.githubusercontent.com/SHI-Labs/Any-Precision-DNNs/master/)
