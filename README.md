@@ -1,5 +1,5 @@
 # Survey-Quantization-DNN-Models
-This is to quantize FP 8/4/2bits for CNN models. More codes on the way. 
+This is to quantize Fixed Points 8/4/2bits for CNN models. More codes on the way. 
 
 
 ### Dependency 
